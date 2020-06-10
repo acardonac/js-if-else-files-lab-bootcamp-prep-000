@@ -1,4 +1,4 @@
-var name = "Susannode js/index.js"
+var name = "Susan"
 var height = "74"
 
 // Don't worry about this
